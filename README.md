@@ -35,9 +35,9 @@ O Zingen oferece uma experiência de karaokê inovadora, permitindo que os usuá
 ## 📸 Screenshots
 *(As imagens abaixo referem-se aos ativos presentes no projeto)*
 
-| Preview do App | Interface de Canto | Planos |
-| :---: | :---: | :---: |
-| ![Comunidade](./assets/Tela%201.png) | ![Pontuação](./assets/Tela%202.png) | ![Letras](./assets/Tela%203.png) |
+| Preview do App | Interface de Canto |
+| :---: | :---: |
+| ![Comunidade](./assets/Tela%201.png) | ![Pontuação](./assets/Tela%202.png) |
 
 ## 🔮 Melhorias Futuras
 * Implementar a lógica real de processamento de áudio com APIs de IA.
